@@ -52,5 +52,3 @@ const Pizza = model('Pizza', PizzaSchema);
 
 // export the Pizza model
 module.exports = Pizza;
-
-// did the pizza.js rename to Pizza.js???
